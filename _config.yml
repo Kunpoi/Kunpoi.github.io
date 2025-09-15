@@ -1,10 +1,10 @@
 # Site settings
-title: Hux Blog
-SEOTitle: xxx的博客 | Hux Blog
+title: xxx Blog
+SEOTitle: xxx的博客 | xxx Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: xxxpro@gmail.com
 description: "这里是 @xxx 的个人博客"
-keyword: "xxx, Huxxxx, Hux, 鬼栈, huxpro, @huxpro, xxx的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+keyword: "xxx, xxxxxx, xxx, 鬼栈, xxxpro, @xxxpro, xxx的博客, xxx Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://xxxxxxxxxxx" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
+weibo_username: xxxpro
+zhihu_username: xxxpro
+github_username: xxxpro
+twitter_username: xxxpro
+#facebook_username:  xxxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: xxx
 
 # Netease settings
 netease_comment: false
@@ -74,8 +74,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "sidebar-about-description <br> React Team @ Meta"
+sidebar-avatar: https://github.com/xxxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
